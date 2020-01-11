@@ -7,7 +7,7 @@
 ## Instructions
 
 You will build a method called `say_hello`. This method should accept the argument of a person's name. It then should print `"Hello "` with the name followed by an exclamation point (don't forget that space after the "Hello"). For instance:
-
+https://learn.co/tracks/intro-to-ruby-development/ruby-basics/methods/say-hello#
 ```ruby
 # I call on the method, say_hello, and give it the string "Gabriela" 
 say_hello("Gabriela")
